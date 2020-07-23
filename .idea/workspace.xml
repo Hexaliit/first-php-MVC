@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9096d881-7b05-40b6-bfb3-8c296b10552b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Vendor/composer" />
+      <path value="$PROJECT_DIR$/Vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/Vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1dgQUP3AuQAyyK706wqg3HpNLgZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9096d881-7b05-40b6-bfb3-8c296b10552b" name="Default Changelist" comment="" />
+      <created>1592844271251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592844271251</updated>
+      <workItem from="1592844273127" duration="3749000" />
+      <workItem from="1593010543214" duration="2167000" />
+      <workItem from="1593024699663" duration="3629000" />
+      <workItem from="1593142605418" duration="6116000" />
+      <workItem from="1593441416265" duration="6247000" />
+      <workItem from="1593514678986" duration="8960000" />
+      <workItem from="1593587737794" duration="4235000" />
+      <workItem from="1593976639480" duration="606000" />
+      <workItem from="1594467202264" duration="14572000" />
+      <workItem from="1594546316258" duration="12087000" />
+      <workItem from="1594633293443" duration="16375000" />
+      <workItem from="1594743746742" duration="3028000" />
+      <workItem from="1594746928297" duration="1610000" />
+      <workItem from="1594797743028" duration="5889000" />
+      <workItem from="1594811559002" duration="15384000" />
+      <workItem from="1594978176559" duration="12310000" />
+      <workItem from="1595154954490" duration="8886000" />
+      <workItem from="1595234701618" duration="6742000" />
+      <workItem from="1595332012108" duration="11010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
